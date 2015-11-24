@@ -97,20 +97,19 @@
 </div>
 <div class="download" id="scroll-hook-download">
     <h2>Download</h2>
-    Current Version: alpha0.1
+    Current Version: alpha0.2
     <br/><br/>
 
     <div class="download-direct">
         <h3><i class="fa fa-download"></i> Direct:</h3>
         <a href="files/blivy-master.zip">ZIP-Archive</a><br/>
-        <a href="files/blivy-master.rar">RAR-Archive</a><br/>
         <a href="files/blivy-master.tar.gz">Tarball</a><br/>
     </div>
     <div class="download-hosted">
         <h3><i class="fa fa-cloud-download"></i> Other Hosts:</h3>
         <a href="https://github.com/JanFoerste/blivy/archive/master.zip"><i class="fa fa-github"></i> Github</a><br/>
         <a href="http://www18.zippyshare.com/v/6d9JRSz1/file.html" target="_blank"><i class="fa fa-share"></i>
-            Zippyshare</a><br/>
+            Zippyshare (a0.1)</a><br/>
     </div>
 </div>
 <div class="footer">
